@@ -1,4 +1,4 @@
-# Fuzzer
+# long-Fuzzer
 
 This module provides a Python wrapper for interacting with AFL (American Fuzzy Lop: http://lcamtuf.coredump.cx/afl/).
 It supports starting an AFL instance, adding slave workers, injecting and retrieving testcases, and checking various performance metrics.
